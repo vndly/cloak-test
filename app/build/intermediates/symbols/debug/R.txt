@@ -1,0 +1,5 @@
+int id start 0x7f050000
+int layout main_activity 0x7f030000
+int mipmap ic_launcher 0x7f020000
+int mipmap ic_launcher_round 0x7f020001
+int string app_name 0x7f040000

@@ -1,0 +1,48 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml:4:5-63
+	android:versionCode
+		INJECTED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.scottyab:aes-crypto:0.0.4] /home/max/.android/build-cache/525614afac6e26d89d8800e24d69735b819ce9ba/output/AndroidManifest.xml:10:5-20
+	android:label
+		ADDED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml:8:9-43
+activity#com.mauriciotogneri.cloaktest.MainActivity
+ADDED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml:11:9-18:20
+	android:name
+		ADDED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.mauriciotogneri:cloak:1.0.1] /home/max/.android/build-cache/6369bbc0cc560de2eba919be56a51cf27c1ad9ce/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.scottyab:aes-crypto:0.0.4] /home/max/.android/build-cache/525614afac6e26d89d8800e24d69735b819ce9ba/output/AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		INJECTED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml
+		INJECTED from /home/max/github/cloak-test/app/src/main/AndroidManifest.xml
