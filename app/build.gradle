@@ -28,5 +28,5 @@ android
 
 dependencies
 {
-    compile 'com.mauriciotogneri:cloak:1.0.1'
+    compile 'com.mauriciotogneri:cloak:1.1.0'
 }
